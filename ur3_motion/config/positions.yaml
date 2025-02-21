@@ -1,0 +1,6 @@
+HOME:
+  joint_positions: [0, -90, 90, -90, -90, 0]
+PICKUP:
+  joint_positions: [45, -60, 60, -60, -45, 10]
+PLACE:
+  joint_positions: [-30, -70, 80, -80, -60, 20]
